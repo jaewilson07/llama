@@ -1,0 +1,6 @@
+[submodule "domo_rag"]
+	path = domo_rag
+	url = https://github.com/jaewilson07/upgraded-invention.git
+[submodule "domo_kb_scrape"]
+	path = domo_kb_scrape
+	url = https://github.com/jaewilson07/domo_kb_scrape.git
